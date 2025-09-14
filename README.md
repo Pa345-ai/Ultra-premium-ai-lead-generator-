@@ -56,7 +56,7 @@ Ready to sync with HubSpot, Salesforce, or other CRMs
 
 
 
-git clone https://github.com/YourUsername/ultra-premium-ai-leads.git  
+git clone https://github.com/Pa345-ai/ultra-premium-ai-leads.git  
 cd ultra-premium-ai-leads  
   
 2. Install required packages:  
@@ -133,7 +133,6 @@ All rights reserved. Proprietary code. Not for public modification, resale, or d
   
 📬 Contact  
   
-Email: your-email@example.com  
-Website: https://yourwebsite.com  
+Email: parameeranasinghe33@gmail.com  
   
 Make every lead count with AI-driven intelligence. 🚀  
